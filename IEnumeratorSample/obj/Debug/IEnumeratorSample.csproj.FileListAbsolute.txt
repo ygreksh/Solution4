@@ -1,0 +1,6 @@
+C:\Users\ygrek\RiderProjects\Solution4\Solution4\IEnumeratorSample\bin\Debug\IEnumeratorSample.exe
+C:\Users\ygrek\RiderProjects\Solution4\Solution4\IEnumeratorSample\bin\Debug\IEnumeratorSample.pdb
+C:\Users\ygrek\RiderProjects\Solution4\Solution4\IEnumeratorSample\obj\Debug\IEnumeratorSample.csproj.AssemblyReference.cache
+C:\Users\ygrek\RiderProjects\Solution4\Solution4\IEnumeratorSample\obj\Debug\IEnumeratorSample.csproj.CoreCompileInputs.cache
+C:\Users\ygrek\RiderProjects\Solution4\Solution4\IEnumeratorSample\obj\Debug\IEnumeratorSample.exe
+C:\Users\ygrek\RiderProjects\Solution4\Solution4\IEnumeratorSample\obj\Debug\IEnumeratorSample.pdb
